@@ -1,0 +1,2 @@
+Class String_1{
+}
